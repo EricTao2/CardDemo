@@ -1,2 +1,2 @@
-old head content from live GitHub E2E
-run 1777304783152-11f1a5
+new head content from live GitHub E2E
+live stale-head file comment 1777304794492
