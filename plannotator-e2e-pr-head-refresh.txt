@@ -1,2 +1,2 @@
-old head content from live GitHub E2E
-run 1777304832548-icidq3
+new head content from live GitHub E2E
+live stale-head file comment 1777304850916
