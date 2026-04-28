@@ -157,10 +157,10 @@ PlayerSettings:
   hdrBitDepth: 0
   m_ColorGamuts: 00000000
   targetPixelDensity: 30
-  resolutionScalingMode: 0
-  resetResolutionOnWindowResize: 0
-  androidSupportedAspectRatio: 1
-  androidMaxAspectRatio: 2.4
+  resolutionScalingMode: 0 # plannotator-latest-1777349169849-f6dk7k-160
+  resetResolutionOnWindowResize: 0 # plannotator-latest-1777349169849-f6dk7k-161
+  androidSupportedAspectRatio: 1 # plannotator-latest-1777349169849-f6dk7k-162
+  androidMaxAspectRatio: 2.4 # plannotator-latest-1777349169849-f6dk7k-163
   androidMinAspectRatio: 1
   applicationIdentifier:
     Standalone: com.DefaultCompany.2D-URP
