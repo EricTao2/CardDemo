@@ -1,5 +1,6 @@
 multi line one
 multi line target two
-multi line target three
+multi line replacement three in new head
+extra inserted line in new head
 multi line target four
 multi line five
