@@ -1,3 +1,2 @@
 keep line before
-target line deleted in new head
 keep line after
